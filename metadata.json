@@ -1,0 +1,5 @@
+{
+  "name": "Guess the Character AI",
+  "description": "An interactive event mini-game where users chat with an AI impersonating a secret character to guess their identity.",
+  "requestFramePermissions": []
+}
